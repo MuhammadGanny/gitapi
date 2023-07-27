@@ -73,7 +73,7 @@ code {
 .card-img{
   width: 100px;
   border-radius: 50%;
-  align-items: center; 
+  padding-left: 50px;
 }
 .bt{
   background-color: 	#f14e32;
