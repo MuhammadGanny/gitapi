@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gitapi/static/css/main.a8eb1326.css",
-    "main.js": "/gitapi/static/js/main.a9055374.js",
+    "main.css": "/gitapi/static/css/main.177c9937.css",
+    "main.js": "/gitapi/static/js/main.e7a588dd.js",
     "index.html": "/gitapi/index.html",
-    "main.a8eb1326.css.map": "/gitapi/static/css/main.a8eb1326.css.map",
-    "main.a9055374.js.map": "/gitapi/static/js/main.a9055374.js.map"
+    "main.177c9937.css.map": "/gitapi/static/css/main.177c9937.css.map",
+    "main.e7a588dd.js.map": "/gitapi/static/js/main.e7a588dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8eb1326.css",
-    "static/js/main.a9055374.js"
+    "static/css/main.177c9937.css",
+    "static/js/main.e7a588dd.js"
   ]
 }
