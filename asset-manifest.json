@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gitapi/static/css/main.a8eb1326.css",
+    "main.js": "/gitapi/static/js/main.a9055374.js",
+    "index.html": "/gitapi/index.html",
+    "main.a8eb1326.css.map": "/gitapi/static/css/main.a8eb1326.css.map",
+    "main.a9055374.js.map": "/gitapi/static/js/main.a9055374.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8eb1326.css",
+    "static/js/main.a9055374.js"
+  ]
+}
